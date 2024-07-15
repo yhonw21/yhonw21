@@ -5,7 +5,7 @@ Here are the latest projects I have been working on.
 
 ## About me
 
-I have extensive experience working with Power BI, Tableau, SQL, Python,and Excel to analyze and present data effectively. As a data analyst, Ihave a proven track record of transforming complex client informationinto visually appealing and insightful dashboards. I excel at working withexisting Excel spreadsheets and leverage my skills to create powerfulPower BI dashboards that present data in a concise and meaningful way2021
+I have extensive experience working with Power BI, Tableau, SQL, Python, and Excel to analyze and present data effectively. As a data analyst, I have a proven track record of transforming complex client information into visually appealing and insightful dashboards. I excel at working with existing Excel spreadsheets and leverage my skills to create powerful Power BI dashboards that present data in a concise and meaningful way
 
 🔎 Data analysis / wrangling skills using Excel / Python / SQL
 > [!IMPORTANT]
